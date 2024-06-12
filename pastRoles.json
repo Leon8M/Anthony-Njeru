@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "title": "Actuarial Valuations & Predictions",
+    "startYear": "2022",
+    "endYear": "2023",
+    "description": "While working at Aon Hungary in Budapest, I performed actuarial valuations for German clients, updated assumptions for pension liabilities, and reported results according to accounting standards. Mentored junior team members."
+  },
+  {
+    "id": 1,
+    "title": "Project Management",
+    "startYear": "2020",
+    "endYear": "2021",
+    "description": "Led planning and implementation of audit software at TraceRiser, doubled as domain expert, and launched beta prototype."
+  },
+  {
+    "id": 2,
+    "title": "Financial Analysis",
+    "startYear": "2019",
+    "endYear": "2020",
+    "description": "Volunteered as financial analyst for International Child Advancement, reconciled accounts, and prepared financial statements. Oriented and trained new finance volunteers on Quickbooks."
+  },
+  {
+    "id": 3,
+    "title": "Risk Management & Analysis",
+    "startYear": "2017",
+    "endYear": "2018",
+    "description": "Identified inconsistent partners, produced performance reports for senior management, resolved issues between teams, and reduced debt ledger by 46%."
+  },
+  {
+    "id": 4,
+    "title": "Financial & Compliance Audit",
+    "startYear": "2017",
+    "endYear": "2018",
+    "description": "Unearthed ghost schools, duplication of bank accounts, and inflated school enrolment data while auditing Ministry of Education. Evaluated efficiency of devolved functions and analyzed compliance with applied law."
+  },
+  {
+    "id": 5,
+    "title": "Sustainable Finance",
+    "startYear": "2017",
+    "endYear": "2018",
+    "description": "Trained and tested on negotiating sustainability-linked loans, assisting clients in loan defaults and navigating environmental risk management guidelines."
+  }
+]

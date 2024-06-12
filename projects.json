@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Second-placed winner",
+    "description": "Second-placed winner of the 2021 Equilor Investments Online Trading Competition in Hungary.",
+    "image": "/images/preview-5.jpeg",
+    "url": "#",
+    "category": "Web Design",
+    "company": "App X",
+    "slug": "website-design-for-finance-startup"
+  },
+  {
+    "id": 2,
+    "title": "Booking.com, 3rd Quarter, 2016",
+    "description": " I led the Risk & Credit Control team on a project to reduce the debt ledger by 46% substantially improving overall Day Sales Outstanding (DSO).",
+    "image": "/images/preview-6.jpeg",
+    "url": "#",
+    "category": "Branding",
+    "company": "Technology",
+    "slug": "brand-refresh-for-technology-app"
+  },
+  {
+    "id": 3,
+    "title": "Website redesign for Consulting X",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "/images/preview-9.jpeg",
+    "url": "#",
+    "category": "Web Design",
+    "company": "Consulting X",
+    "slug": "website-design-for-consulting-x"
+  },
+  {
+    "id": 4,
+    "title": "Illustration design for Edu X",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "/images/preview-10.jpeg",
+    "url": "#",
+    "category": "Illustrations",
+    "company": "Edu X",
+    "slug": "illustration-design-for-edu-x"
+  }
+]
