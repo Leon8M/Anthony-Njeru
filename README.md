@@ -1,14 +1,23 @@
-### Portfolio template with Vite and React
+### Anthony Njeru's Portfolio Website
+
+Welcome to my portfolio website, showcasing my expertise and projects.
 
 **Preview**
-<img src="./public/images/screenshot.jpg" alt="Demo screenshot" style="width: 100%; height: auto;max-width: 100%" />
+<img src="./public/images/screen.jpg" alt="Demo screenshot" style="width: 100%; height: auto;max-width: 100%" />
 
+## Technologies Used
 
-**Features** 
+- **React**: JavaScript library for building user interfaces.
+- **Vite**: Fast build tool that focuses on speed and performance.
+- **TypeScript**: Typed superset of JavaScript that improves code quality and developer productivity.
+- **Tailwind CSS**: Utility-first CSS framework for rapidly building custom designs.
 
-- 🥰 Minimal and light
-- 📱 Responsive
-- 🌗 Light/dark/system color modes
+## Features
+
+- Responsive design for optimal viewing across devices.
+- Portfolio section highlighting financial modeling, sustainable finance, and compliance auditing projects.
+- Contact form for collaboration and inquiries.
+- Integration with social media and professional profiles.
 
 ## Setup
 
@@ -43,3 +52,4 @@ Locally preview production  build:
 ```bash
 npm run preview
 ```
+
