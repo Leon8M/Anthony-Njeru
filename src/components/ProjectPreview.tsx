@@ -18,10 +18,10 @@ const ProjectPreview = ({ work }: Props) => {
               {work.description}
             </p>
           </div>
-          <div className="lg:order-none order-first lg:mt-0 lg:col-span-6 relative overflow-hidden">
+          {/*<div className="lg:order-none order-first lg:mt-0 lg:col-span-6 relative overflow-hidden">
             <img src={work.image} alt="hero" className="transition-all duration-700 opacity-0 animating-image group-hover:scale-110" />
             <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full" />
-          </div>
+          </div>*/}
         </div>
       </div>
     </Link>

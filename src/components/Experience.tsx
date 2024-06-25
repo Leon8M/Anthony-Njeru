@@ -11,7 +11,7 @@ const Experience = () => {
             What do I bring to the table
           </h2>
           <p className="mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl">
-            Vulputate ut pharetra sit amet aliquam id diam dolor maecenas ultricies at in tellus integer feugiat ipum
+          Explore my expertise in finance, proven innovation, leadership, problem-solving, and client-focused dedication.
           </p>
           <AnimatedLink title="View resume" link="/resume" isExternal={false}  />
         </div>

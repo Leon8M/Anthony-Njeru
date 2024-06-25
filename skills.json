@@ -1,22 +1,37 @@
 [
   {
     "id": 0,
-    "title": "UI/UX Design",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit auis nec et vestibulum risus accumsan purus morbi id arcu rutrum."
+    "title": "Tableau",
+    "description": "Created interactive dashboards to visualize financial data trends and performance metrics."
   },
   {
     "id": 1,
-    "title": "User Research",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit auis nec et vestibulum risus accumsan purus morbi id arcu rutrum."
+    "title": "Excel",
+    "description": "Developed complex financial models and performed data analysis using advanced functions and macros."
   },
   {
     "id": 2,
-    "title": "Product Design",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit auis nec et vestibulum risus accumsan purus morbi id arcu rutrum."
+    "title": "MySQL",
+    "description": "Managed databases to store and retrieve financial and compliance audit data securely."
   },
   {
     "id": 3,
-    "title": "Brand Design",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit auis nec et vestibulum risus accumsan purus morbi id arcu rutrum."
+    "title": "Power BI",
+    "description": "Built comprehensive reports integrating data from multiple sources for strategic decision-making."
+  },
+  {
+    "id": 4,
+    "title": "R",
+    "description": "Utilized statistical analysis and data visualization packages to derive insights from financial datasets."
+  },
+  {
+    "id": 5,
+    "title": "Google Spreadsheets",
+    "description": "Collaborated in real-time to analyze and share financial data across teams."
+  },
+  {
+    "id": 6,
+    "title": "Teammate Analytics",
+    "description": "Implemented analytics tools to assess team performance metrics and optimize workflows."
   }
 ]

@@ -6,7 +6,7 @@ const PastProjects = () => {
     <section className="bg-white dark:bg-neutral-900 py-20 lg:py-48">
       <div className="w-full text-center mx-auto">
         <h2 className="mb-4 text-4xl font-normal tracking-normal xl:text-5xl">
-          Projects
+          Achievements
         </h2>
       </div>
       <div className="container mx-auto px-4">

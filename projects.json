@@ -4,10 +4,10 @@
     "title": "Second-placed winner",
     "description": "Second-placed winner of the 2021 Equilor Investments Online Trading Competition in Hungary.",
     "image": "/images/preview-5.jpeg",
-    "url": "#",
-    "category": "Web Design",
-    "company": "App X",
-    "slug": "website-design-for-finance-startup"
+    "category":"Financial Trading",
+    "company":"Equilor Investments",
+    "url": "https://economics.ceu.edu/article/2021-04-20/equilor-trading-competition",
+    "slug": "winner"
   },
   {
     "id": 2,
@@ -15,28 +15,58 @@
     "description": " I led the Risk & Credit Control team on a project to reduce the debt ledger by 46% substantially improving overall Day Sales Outstanding (DSO).",
     "image": "/images/preview-6.jpeg",
     "url": "#",
-    "category": "Branding",
-    "company": "Technology",
-    "slug": "brand-refresh-for-technology-app"
+    "category": "Financial Management",
+    "company": "Booking.com",
+    "slug": "risk-and-credit-control"
   },
   {
     "id": 3,
-    "title": "Website redesign for Consulting X",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "title": "Booking.com, 2017",
+    "description": " I lobbied & implemented collaboration with scalable African payment partners - MyPAGA in Nigeria",
     "image": "/images/preview-9.jpeg",
     "url": "#",
-    "category": "Web Design",
-    "company": "Consulting X",
-    "slug": "website-design-for-consulting-x"
+    "category": "Strategic Partnerships",
+    "company": "Booking.com",
+    "slug": "lobby"
   },
   {
     "id": 4,
-    "title": "Illustration design for Edu X",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "title": "On 5th December 2019",
+    "description": "I drafted and published an article on the gravity of curriculum reform in the education sector in Kenya on Medium.com.",
+    "image": "/images/preview-10.jpeg",
+    "url": "https://tinyurl.com/mryyfmu6",
+    "category": "Educational Writing",
+    "company": "Medium",
+    "slug": "article"
+  },
+  {
+    "id": 5,
+    "title": "TraceRiser Kft, 2021",
+    "description": "On 12th April 2021, we launched a beta prototype of our audit software for potential clients to test. It includes a Data Flow Validation tool that I designed.",
     "image": "/images/preview-10.jpeg",
     "url": "#",
-    "category": "Illustrations",
-    "company": "Edu X",
-    "slug": "illustration-design-for-edu-x"
+    "category": "product management",
+    "company": "TraceRiser",
+    "slug": "product-software"
+  },
+  {
+    "id": 6,
+    "title": "Leadership/Performance Recognition",
+    "description": "Within seven months, I was appointed to lead the team in audit exercises for TVETA and KNQA. Accomplished the re-adjustment of accounting, IT policies and procurement procedures for these two client institutions. Special Projects: Audited World-Bank-funded projects within the Ministry of Education (2018/2019) and issued a management report on time",
+    "image": "/images/preview-10.jpeg",
+    "url": "#",
+    "category": "Audit and Compliance",
+    "company": "Office of the Auditor-General",
+    "slug": "leadership"
+  },
+  {
+    "id": 7,
+    "title": "International Child Advancement",
+    "description": "Within these 5 months, I have been able to reconcile ICA`s accounts from 2021 to 2022 and currently preparing financial statements for the year ended 2022 (the non-profit had not prepared reports since 2019).",
+    "image": "/images/preview-10.jpeg",
+    "url": "#",
+    "category": "Financial Accounting",
+    "company": " ICA",
+    "slug": "reconciliation"
   }
 ]
